@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.334b7eb0.chunk.css",
+    "main.js": "/static/js/main.9e5944ed.chunk.js",
+    "main.js.map": "/static/js/main.9e5944ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
+    "static/js/2.5acc40c3.chunk.js": "/static/js/2.5acc40c3.chunk.js",
+    "static/js/2.5acc40c3.chunk.js.map": "/static/js/2.5acc40c3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.334b7eb0.chunk.css.map": "/static/css/main.334b7eb0.chunk.css.map",
+    "static/js/2.5acc40c3.chunk.js.LICENSE.txt": "/static/js/2.5acc40c3.chunk.js.LICENSE.txt",
+    "static/media/Rick_and_Morty_logo.42c8df0b.png": "/static/media/Rick_and_Morty_logo.42c8df0b.png",
+    "static/media/backgroundstyle.css": "/static/media/wp1822726-rick-and-morty-wallpapers.2733d34a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d25ba2e.js",
+    "static/js/2.5acc40c3.chunk.js",
+    "static/css/main.334b7eb0.chunk.css",
+    "static/js/main.9e5944ed.chunk.js"
+  ]
+}
